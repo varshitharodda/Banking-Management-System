@@ -183,9 +183,5 @@ Run the scripts in this order:
 - GitHub
 
 ## Purpose of the Project
-
 This project was created as a practical SQL portfolio project to demonstrate database design, querying, data analysis, advanced SQL techniques, and reusable database programming in a banking domain.
-=======
-# Banking-Management-System
-A  MySQL-based Banking Management System designed to manage customers, bank accounts, transactions, loans, employees, and branches while demonstrating practical SQL querying and data analysis.
 
